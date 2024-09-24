@@ -5,10 +5,14 @@ theme: ["PaperMod"]
 
 params:
   socialIcons: # optional
-    - name: "LinkedIn"
-      url: "www.linkedin.com/in/itsmohitanand"
-    - name: "GitHub"
-      url: "www.github.com/melioristic"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/itsmohitanand"
+    - name: "github"
+      url: "https://www.github.com/melioristic"
+    - name: "googlescholar"
+      url: "https://scholar.google.com/citations?user=CLT93tYAAAAJ&hl=en"
+    - name: "twitter"
+      url: "https://twitter.com/mohitanand"
 
   homeInfoParams:
     Title: "Mohit Anand"
@@ -20,13 +24,13 @@ menu:
     - Name: "Home"
       URL: "/"
       weight: 1
-    - Name: "Resume"
-      URL: "/categories/"
-      weight: 5
+    # - Name: "Resume"
+    #   URL: "/categories/"
+    #   weight: 5
     # - Name: "Blogs"
     #   URL: "/blogs/"
     #   weight: 2
-    - Name: "Projects"
-      URL: "/archives/"
-      weight: 3
+    # - Name: "Projects"
+    #   URL: "/archives/"
+    #   weight: 3
 
