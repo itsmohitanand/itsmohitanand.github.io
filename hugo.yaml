@@ -17,7 +17,7 @@ params:
     - name: "linkedin"
       url: "https://www.linkedin.com/in/itsmohitanand"
     - name: "github"
-      url: "https://www.github.com/melioristic"
+      url: "https://www.github.com/itsmohitanand"
     - name: "googlescholar"
       url: "https://scholar.google.com/citations?user=CLT93tYAAAAJ&hl=en"
     - name: "twitter"
