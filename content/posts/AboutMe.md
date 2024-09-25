@@ -8,9 +8,9 @@ cover:
     # caption: "Me and my works"
 ---
 
-# My First Post
+# Hello World!
 
-In my initial post, I will talk about my background and the nature of my projects. I was born and raised in India. After finishing school, I took the engineering entrance examination for the Indian Institutes of Technology (IITs). When it came to the college counselling process, I had the chance to express my preferences for different engineering branches. I was initially interested in computer science, but I ended up pursuing environmental engineering at IIT(ISM), Dhanbad. 
+In this post, I will talk about my background and the nature of my projects. I was born and raised in India. After finishing school, I took the engineering entrance examination for the Indian Institutes of Technology (IITs). When it came to the college counselling process, I had the chance to express my preferences for different engineering branches. I was initially interested in computer science, but I ended up pursuing environmental engineering at IIT(ISM), Dhanbad. 
 
 My undergraduate studies sparked my interest in learning more about my surrounding. However, I realised that I am also interested in the mathematical modelling of complex systems. I gained some exposure to hydrological modelling, which further fueled my desire to delve deeper into this field. As a result, I pursued my Master’s degree in Environmental Engineering at ETH Zurich, Switzerland.
 
